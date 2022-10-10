@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drawapp/static/css/main.639d6a34.css",
+    "main.js": "/drawapp/static/js/main.5aa0cc87.js",
+    "static/js/787.0f11b7a9.chunk.js": "/drawapp/static/js/787.0f11b7a9.chunk.js",
+    "index.html": "/drawapp/index.html",
+    "main.639d6a34.css.map": "/drawapp/static/css/main.639d6a34.css.map",
+    "main.5aa0cc87.js.map": "/drawapp/static/js/main.5aa0cc87.js.map",
+    "787.0f11b7a9.chunk.js.map": "/drawapp/static/js/787.0f11b7a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639d6a34.css",
+    "static/js/main.5aa0cc87.js"
+  ]
+}
